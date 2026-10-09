@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Royhan",
+        "score": 85
+    },
+    {
+        "name": "Mubarak",
+        "score": 45
+    },
+    {
+        "name": "Mahmud",
+        "score": 91
+    },
+    {
+        "name": "Rafash",
+        "score": 67
+    },
+    {
+        "name": "John",
+        "score": 39
+    },
+    {
+        "name": "AbdurRasheed Fashola",
+        "score": 99,
+        "grade": "A",
+        "status": "Pass"
+    },
+    {
+        "name": "David Olalere ",
+        "score": 60,
+        "grade": "B",
+        "status": "Pass"
+    },
+    {
+        "name": "Sakinah",
+        "score": 99,
+        "grade": "A",
+        "status": "Pass"
+    }
+]
