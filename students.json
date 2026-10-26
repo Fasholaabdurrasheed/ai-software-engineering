@@ -1,23 +1,33 @@
 [
     {
         "name": "Royhan",
-        "score": 85
+        "score": 85,
+        "grade": "A",
+        "status": "Pass"
     },
     {
         "name": "Mubarak",
-        "score": 45
+        "score": 45,
+        "grade": "D",
+        "status": "Pass"
     },
     {
         "name": "Mahmud",
-        "score": 91
+        "score": 91,
+        "grade": "A",
+        "status": "Pass"
     },
     {
         "name": "Rafash",
-        "score": 67
+        "score": 67,
+        "grade": "B",
+        "status": "Pass"
     },
     {
         "name": "John",
-        "score": 39
+        "score": 39,
+        "grade": "F",
+        "status": "Fail"
     },
     {
         "name": "AbdurRasheed Fashola",
@@ -36,5 +46,29 @@
         "score": 99,
         "grade": "A",
         "status": "Pass"
+    },
+    {
+        "name": "Okoro",
+        "score": 40,
+        "grade": "F",
+        "status": "Fail"
+    },
+    {
+        "name": "Bola",
+        "score": 65,
+        "grade": "B",
+        "status": "Pass"
+    },
+    {
+        "name": "Micheal",
+        "score": 71,
+        "grade": "A",
+        "status": "Pass"
+    },
+    {
+        "name": "",
+        "score": 20,
+        "grade": "F",
+        "status": "Fail"
     }
 ]

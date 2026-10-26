@@ -76,6 +76,6 @@
 # print(f"Top Student: {top_student}")
 # print(f"Highest Score: {highest_score}")
 
-def start():
-    print("Welcome to the Student Record Management System!")
+# def start():
+#     print("Welcome to the Student Record Management System!")
     
